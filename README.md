@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kartikey12322111/kartikey12322111/output/github-contribution-grid-snake.svg" />
+</p>
 <h1 align="center">Hi 👋, I'm KARTIKEY</h1>
 <h3 align="center">BTech Student | Full Stack Developer 🚀</h3>
 

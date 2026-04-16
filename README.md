@@ -35,6 +35,40 @@
 
 ---
 
+---
+
+### 📌 Featured Projects
+
+#### 🚗 Car Rental Full Stack App
+
+* Developed a complete full stack car rental system
+* Features: User authentication, car booking, admin dashboard
+* Tech: React, Node.js, Express, MongoDB
+
+🔗 https://github.com/kartikey12322111/car-rental-fullstack
+
+---
+
+#### 📄 AI Resume Builder
+
+* Built an AI-powered resume generator for creating professional resumes
+* Dynamic form handling and real-time preview
+* Tech: JavaScript, API Integration, Frontend + Backend
+
+🔗 https://github.com/kartikey12322111/ai-resume-builder
+
+---
+
+#### 🗳️ Online Polling System
+
+* Created an online voting/polling platform with real-time results
+* Features: User authentication, poll creation, live results
+* Tech: HTML, CSS, JavaScript, PHP
+
+🔗 https://github.com/kartikey12322111/online-polling-system
+
+---
+
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikey-rao-556203299/">LinkedIn</a> |

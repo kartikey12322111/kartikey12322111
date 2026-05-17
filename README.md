@@ -10,7 +10,7 @@
 - 🎓 BTech Student  
 - 💻 Full Stack Developer  
 - 📚 DSA & LeetCode  
-- 🌱 Learning daily  
+- 🌱 Solving problems daily 
 
 ---
 

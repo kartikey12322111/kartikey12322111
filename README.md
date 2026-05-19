@@ -47,9 +47,9 @@
 
 🔗 https://github.com/kartikey12322111/car-rental-fullstack
 
----
+----
 
-#### 📄 AI Resume Builder
+#### 📄 AI ResumE Builder
 
 * Built an AI-powered resume generator for creating professional resumes
 * Dynamic form handling and real-time preview

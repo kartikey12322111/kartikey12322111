@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With ME</h2>
 
 <div align="center">
 

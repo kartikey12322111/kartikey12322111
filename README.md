@@ -75,16 +75,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kartikey12322111&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
-
 <h2 align="center">📈 Contribution Graph 📈</h2>
 
 <div align="center">

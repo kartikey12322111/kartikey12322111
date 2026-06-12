@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer |  Problem Solver |  BTECH Student
+ Full Stack Developer |  Problem Solver |  BTECH Student
 </h3>
 
 <br/>
